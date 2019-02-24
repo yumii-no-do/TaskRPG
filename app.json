@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "TaskRPG",
+    "description": "This project is really great.",
+    "slug": "TaskRPG",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "3.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#000000",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "ru.yumii.taskrpg3",
+      "permissions":[]
+    },
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
