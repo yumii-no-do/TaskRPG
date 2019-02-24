@@ -6,8 +6,8 @@ TaskRPG is a mobile application for managing your tasks in a playful way
 #### Development tools used:
 * React (React Native)
 * Redux
-- expo
-- moment
+* expo
+* moment
 
 
 ![screenshot of sample](unnamed.png)
